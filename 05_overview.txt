@@ -1,0 +1,42 @@
+
+Section 02: Overview
+--------------------------------------------------------------------
+
+Operating Systems
+
+	- Windows
+
+		+ C compiler (Cygwin)
+
+		+ Integrated Development Environments (IDEs)
+
+			- Code::Blocks
+
+			- Visual Studio Code
+
+	- Mac
+
+		+ C compiler (developer tools)
+
+		+ Integrated Development Environments (IDEs)
+
+			- Code::Blocks does not work
+
+			- Visual Studio Code
+
+			- Xcode
+
+	- Linux
+
+		+ Compiler comes installed
+
+		+ Integrated Development Environment (IDEs)
+
+			- Code::Blocks
+
+			- Visual Studio Code
+
+			- Vim, gedit, compile from command line
+
+
+
